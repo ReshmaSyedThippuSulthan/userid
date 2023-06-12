@@ -159,7 +159,7 @@ class _MyAppState extends State<MyApp> {
                     Container(
                        decoration:  BoxDecoration(borderRadius: BorderRadius.circular(20),border: BoxBorder.lerp(Border.all(color: Colors.black),Border.all(color: Colors.black),5.0)),
                       child: const Padding(
-                        padding: EdgeInsets.all(8.0),
+                        padding: EdgeInsets.all(17.8),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
